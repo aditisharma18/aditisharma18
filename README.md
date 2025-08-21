@@ -1,7 +1,7 @@
 ## Hi, I'am Aditi💖✨
 
-🤯 Computer Science Engineer
-🖋️ I created women safety jacket using iot
+🤯 Computer Science Engineer<br>
+🖋️ I created women safety jacket using iot<br>
 🔗 I post my growth on [linkedln](https://www.linkedin.com/in/aditi-sharma-83aa51200)
 
 
